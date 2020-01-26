@@ -1,7 +1,9 @@
 # fizzbuzz
 fizzbuzz test - requires user input
 
-Takes the generic fizzbuzz test and adds user-input option. 
+Your generic fizzbuzz test. Except with one extra feature.
+
+Takes the generic fizzbuzz test and adds user-input option.
 
 For range between 0 to 100:<br>
 prints 'fizz' to replace any integer divisible by first number.<br>
